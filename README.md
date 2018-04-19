@@ -1,1 +1,1 @@
-App to take text from images and convert it into wingdings/webdings
+App to take text from images and convert it into wingdings/webdings!
